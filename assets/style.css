@@ -1,0 +1,23 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  background-color: rgb(243, 208, 166);
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+}
